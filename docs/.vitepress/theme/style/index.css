@@ -1,0 +1,43 @@
+@import './var.css';
+
+:root {
+    /* 设置左侧介绍 MkBook */
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe, #41d1ff);
+    /* 下面两行设置右侧图片 */
+    --vp-home-hero-image-background-image: linear-gradient(-45deg, #47caff 50%, #bd34fe 50%);
+    --vp-home-hero-image-filter: blur(60px);
+}
+
+.image[data-v-72cc4481]:hover {
+    /* transform 属性允许你旋转，缩放，倾斜或平移给定元素 */
+    transform: rotate(666turn);
+    /* 过渡 */
+    transition-delay: 0s;
+    transition-property: all;
+    transition-duration: 200s;
+    transition-timing-function: cubic-bezier(.34, 0, .84, 1);
+}
+
+/* .vitepress\theme\style\var.css */
+/* 提示框背景颜色 */
+:root {
+    --vp-custom-block-tip-bg: var(--vp-c-green-soft);
+  }
+  
+  /* 提示框 */
+  .custom-block.tip {
+    border-color: var(--vp-c-green-2);
+  }
+  
+  /* 警告框 */
+  .custom-block.warning {
+    /* border-color: #d97706; */
+    border-color: var(--vp-c-yellow-2);
+  }
+  
+  /* 危险框 */
+  .custom-block.danger {
+    /* border-color: #f43f5e; */
+    border-color: var(--vp-c-red-2);
+  }

@@ -1,0 +1,10 @@
+/* var.css */
+.dark {
+  --vp-c-brand-3: #5434ab;
+}
+
+/* 以前的vp-c-brand已弃用 */
+/* 链接下划线 */
+.vp-doc a {
+    text-decoration: none;
+}
