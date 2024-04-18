@@ -36,4 +36,4 @@ isDate('2020-01-01') // false
 
 ## 查看源码
 
-[date/index.ts:13](https://github.com/Misyan-03/vitepress-template/blob/73a09b8ae33d9dd69c8bfde25db7705182967418/src/date/index.ts#L13)
+date/index.ts:13

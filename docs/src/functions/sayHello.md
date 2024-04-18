@@ -32,4 +32,4 @@ console.log(sayHello('hacxy')); // Hello, hacxy!
 
 ## 查看源码
 
-[index.ts:11](https://github.com/Misyan-03/vitepress-template/blob/73a09b8ae33d9dd69c8bfde25db7705182967418/src/index.ts#L11)
+index.ts:11

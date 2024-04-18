@@ -26,4 +26,4 @@ console.log(helloWorld()); // Hello, World!
 
 ## 查看源码
 
-[index.ts:24](https://github.com/Misyan-03/vitepress-template/blob/73a09b8ae33d9dd69c8bfde25db7705182967418/src/index.ts#L24)
+index.ts:24

@@ -110,7 +110,7 @@ npm publish
 
 ## 文档如何生成
 
-当执行 `npm run docs:dev` 时,typedoc 会开启监听模式, 并根据所有导出的方法生成 markdown 文档至 `docs/src` 目录, 同时 vitepress 开发模式将会启动, 你可以通过<http://localhost:5173/>预览你的文档内容
+当执行 `npm run docs:dev` 时,typedoc 会开启监听模式, 并根据所有导出的方法生成 markdown 文档至 `docs/src` 目录, 同时 vitepress 开发模式将会启动, 你可以通过<http://localhost>预览你的文档内容
 
 文档内容还可以在方法的注释中补充, 但是需要注意, 注释内容应该按照 [typedoc](https://typedoc.org/guides/overview/) 规范来编写. 以下是一个示例:
 

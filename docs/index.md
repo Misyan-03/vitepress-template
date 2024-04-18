@@ -4,7 +4,7 @@ title: Home
 
 hero:
   name: MkBook
-  text: 好用的Javascript工具库与知识库
+  text: 工具库与知识库
   tagline: 向画🌿
   image:
     src: /.vitepress/static/earth-overlay.png
